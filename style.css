@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	background: #bbb;
+}
+
+div {
+	margin: 10px 0;
+}
+
+.btn {
+	margin: 10px;
+	padding: 10px;
+	text-transform: uppercase;
+	font-weight: bold;
+	border: none;
+	color: #fff;
+}
+
+.btn-inc {
+	background: #13c47a;
+}
+
+.btn-dec {
+	background: #db85ad;
+}
+
+.stateDisplay {
+	font-family: 'arial';
+	font-weight: bold;
+}
