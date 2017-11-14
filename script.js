@@ -34,7 +34,7 @@ var Counter = React.createClass({
         className: 'btn btn-dec'
       }, 'Zmniejsz'),
       React.createElement('span', {
-        className: 'stateDisplay'
+        className: 'state-display'
       }, 'Stan licznika: ' + this.state.counter)
     ));
   },
